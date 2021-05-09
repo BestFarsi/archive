@@ -1,4 +1,3 @@
-# bestfarsi-archive
-BestFarsi Archive
+# BestFarsi Archive
 
 * https://archive.bestfarsi.com/
