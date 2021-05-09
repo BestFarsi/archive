@@ -6,10 +6,11 @@ title: "آرشیو"
 
 این پروژه اوپن سورس است.
 
-برای دسترسی به گیتهاب پروژه با ما تماس بگیرید.
+گیتهاب: https://github.com/BestFarsi/archive
 
 * https://twitter.com/BestFarsi
 
 * https://t.me/ci_admin
 
 * https://t.me/BestTwitterFarsi
+
