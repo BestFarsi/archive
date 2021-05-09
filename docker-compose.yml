@@ -1,0 +1,14 @@
+version: '3.5'
+
+networks:
+  proxy:
+    external: true
+
+services:
+  web:
+    image: nginx:latest
+    restart: always
+    volumes:
+      - ./public:/usr/share/nginx/html:ro
+    networks:
+      - proxy

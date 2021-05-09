@@ -1,0 +1,27 @@
+baseURL = "https://archive.bestfarsi.com/"
+languageCode = "fa"
+defaultContentLanguage = "fa"
+title = "بایگانی"
+theme = "zen"
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = false
+paginate = 1000
+
+[languages]
+  [languages.fa]
+    weight = 1
+    languageCode = "fa"
+    languageName = "فارسی"
+    languagedirection = "rtl"
+
+[params]
+  contact = "bestfarsi@gmail.com"
+  copyright = "بایگانی بست فارسی"
+  languageDir = "rtl"
+  logo = false
+  mainSections = ""
+
+[social]
+  twitter = "https://www.twitter.com/BestFarsi"
+  email = "bestfarsi@gmail.com"
